@@ -58,7 +58,7 @@ public class Main extends Application
       
       Scene scene = new Scene(fp, 600, 600);
       stage.setScene(scene);
-      stage.setTitle("Project :)");
+      stage.setTitle("CS-1054 Project");
       stage.show();
       
       spawn(83,3);
